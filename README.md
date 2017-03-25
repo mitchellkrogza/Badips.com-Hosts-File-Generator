@@ -62,14 +62,16 @@ Report any issues on https://github.com/mitchellkrogza/Badips.com-Hosts-File-Gen
 
 Check out my highly popular Nginx and Apache Bad Bot Blockers
 
-NGINX ULTIMATE BAD BOT BLOCKER
+**NGINX ULTIMATE BAD BOT BLOCKER**
+
 https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 
-APACHE ULTIMATE BAD BOT BLOCKER
+**APACHE ULTIMATE BAD BOT BLOCKER**
+
 https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 Use the bad bot bot blockers in conjuction with this Badips.com hosts.deny and you will keep almost every bad IP and bot out there out of your servers.
 
 Come drop by and visit me also at https://mitchellkrog.com
 
-### If this helps you [You can buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer: or send some cheese for my mouse [![gitcheese.com](https://api.gitcheese.com/v1/projects/92bf5669-7d2c-447d-baa4-216ac9e720a6/badges)](https://www.gitcheese.com/app/#/projects/92bf5669-7d2c-447d-baa4-216ac9e720a6/pledges/create)
+### If this helps you [You can buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer: or send some cheese for my cat [![gitcheese.com](https://api.gitcheese.com/v1/projects/92bf5669-7d2c-447d-baa4-216ac9e720a6/badges)](https://www.gitcheese.com/app/#/projects/92bf5669-7d2c-447d-baa4-216ac9e720a6/pledges/create)
