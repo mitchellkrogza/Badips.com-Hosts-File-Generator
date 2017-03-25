@@ -26,7 +26,8 @@ Make the file executable
 ## RUNNING IT AS CRON
 
 A cron for this would be as follows (substitute your own email address)
-30 22 * * * /usr/sbin/badips2hostsdeny.sh | mail -s "Bad IPs updated on `uname -n`" me@mydomain.com
+
+`30 22 * * * /usr/sbin/badips2hostsdeny.sh | mail -s "Bad IPs updated on `uname -n`" me@mydomain.com`
 
 The above cron will run every night at 22:30 and email you to tell you it was updated.
 
