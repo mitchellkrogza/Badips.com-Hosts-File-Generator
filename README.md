@@ -74,4 +74,4 @@ Use the bad bot bot blockers in conjuction with this Badips.com hosts.deny and y
 
 Come drop by and visit me also at https://mitchellkrog.com
 
-### If this helps you [You can buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer: or send some cheese for my cat [![gitcheese.com](https://api.gitcheese.com/v1/projects/92bf5669-7d2c-447d-baa4-216ac9e720a6/badges)](https://www.gitcheese.com/app/#/projects/92bf5669-7d2c-447d-baa4-216ac9e720a6/pledges/create)
+### If this helps you why not [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
